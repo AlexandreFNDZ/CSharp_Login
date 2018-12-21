@@ -1,0 +1,5 @@
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\Login01\Login01\bin\Debug\Login01.exe
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\Login01\Login01\bin\Debug\Login01.pdb
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\Login01\Login01\obj\Debug\Login01.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\Login01\Login01\obj\Debug\Login01.exe
+C:\Users\alexandre.pereira\Documents\Projetos\CSharp\Login01\Login01\obj\Debug\Login01.pdb
